@@ -1,1 +1,1 @@
-The contents of this repository is copyrighted by Jeremy Heiler.
+The website for Realister.
